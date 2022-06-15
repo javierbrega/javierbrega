@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @javierbrega
-- 👀 I’m interested in ...programming, I am self-taught, this year 2022 I started studying at the National Technological University (UTN).
-- 🌱 I’m currently learning  programming in the technical course of the UTN
+- 👀 I’m interested in ...programming, I am self-taught, 
+- 🌱 actualmente estoy cursando la carrera de  tecnicatura en programacion en la Universidad Tecnológica Nacional UTN
 - 💞️ I’m looking to collaborate in technology companies  
 - 📫 How to reach me ...  
-        Cell  phone: +542604576114        
+              
         e-mail javierbrega@gmail.com        
         LinkedIn: https://www.linkedin.com/in/javier-brega-438390213/
     
