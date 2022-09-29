@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @javierbrega console.log("HOLA MUNDO"),
+- console.log("HOLA_MUNDO");
+- 👋 Hi, I’m @javierbrega- 
 - 👀 I’m interested in ...programming, I am self-taught, 
 - 🌱 actualmente estoy cursando la carrera de  tecnicatura en programacion en la Universidad Tecnológica Nacional UTN
 - 💞️ I’m looking to collaborate in technology companies  
